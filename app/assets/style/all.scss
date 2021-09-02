@@ -1,6 +1,12 @@
 @import "../../../node_modules/bootstrap/scss/functions";
-@import "./helpers/variables";
+@import "./helpers/_variables";
 @import "../../../node_modules/bootstrap/scss/bootstrap";
 
+@import "./base/_reset.scss";
 
-@import './layout/index.scss'
+@import "./layout/_header.scss";
+
+@import "./layout/_navbar.scss";
+
+@import "./pages/_index.scss";
+

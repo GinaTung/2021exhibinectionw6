@@ -1,0 +1,20 @@
+.index-banner{
+  height:500px;
+  background-image:url(./../images/banner.jpg);
+   
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.pink2{
+  background: $pink2;
+}
+a{
+  color:$white;
+  font-size: 25px;
+}
+.text{
+  height: 480px;
+  padding: 167px 0 167px 180px;
+}
